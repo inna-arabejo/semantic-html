@@ -7,10 +7,10 @@ Create a Horiseon webpage that needs to be refactored. Meaning that the mock-up 
 When a website improves their accessability, it allows for better visibility on web searchces. Web accessability also allows people with disabilities to have better user experience. It gives them access to the webpage by using assistive technologies like screen readers. 
 
 ## Screenshot
-
+![Horiseon Web Page Screenshot](./assets/images/horiseon-screenshot.jpg)
 
 ## Link To the Final Page
-
+[Horiseon final page link]https://inna-arabejo.github.io/semantic-html/
 
 ## License
 This code is licensed under the MIT License.

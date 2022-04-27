@@ -1,5 +1,7 @@
 # Semantic HTML Homework Assignment
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ## Task of refactoring the Horiseon webpage.
 Create a Horiseon webpage that needs to be refactored. Meaning that the mock-up should be 90 percent original with the other 10 percent worked on to improve the codebase for better web accessability. HTML will be organized with semantic elements that clearly define its content and follows semantic structure. The semantic layout of CSS will be organized to follow the semantic structure of HTML elements. CSS selectors and properties can be combined for efficiency. Be sure to comment on both HTML and CSS before each element and section of a page.
 

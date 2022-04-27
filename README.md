@@ -22,7 +22,7 @@ This program can be run through a browser to the the deployed application. Alter
 ![Horiseon Web Page Screenshot](./assets/images/horiseon-screenshot.jpg)
 
 ## Link To the Final Page
-[Horiseon final page link]https://inna-arabejo.github.io/semantic-html/
+[Horiseon final page link](https://inna-arabejo.github.io/semantic-html/)
 
 ## License
 This code is licensed under the MIT License.
